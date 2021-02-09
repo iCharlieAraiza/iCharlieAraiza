@@ -1,4 +1,8 @@
 ### Hi there 👋
+
+
+[![Twitter Badge](https://img.shields.io/badge/-@Charlie_Araiza?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Charlie_Araiza) 
+
 <!--
 **iCharlieAraiza/iCharlieAraiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
