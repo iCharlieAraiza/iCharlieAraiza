@@ -3,6 +3,8 @@
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/Charlie_Araiza?style=social)](https://twitter.com/Charlie_Araiza)
 
+ C++, Java, Scala, React
+
 <!--
 **iCharlieAraiza/iCharlieAraiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
