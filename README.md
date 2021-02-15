@@ -6,7 +6,7 @@ My name is Carlos and I'm a software developer and electrical engineer.
 
  C++, Java, Scala, React
 
-- ⚡ Fun fact: Programmers will start the count from zero, not one
+- ⚡ Fact: Programmers will start the count from zero, not one
 
 <!--
 **iCharlieAraiza/iCharlieAraiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
