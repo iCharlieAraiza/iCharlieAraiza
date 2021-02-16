@@ -4,7 +4,9 @@ My name is Carlos and I'm a software developer and electrical engineer.
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/Charlie_Araiza?style=social)](https://twitter.com/Charlie_Araiza)
 
- PHP, C++, Java, Scala, React
+Backend: C++, Java, Scala.
+
+Web dev: React, PHP, Node
 
 - 💬 : Programmers will start the count from zero, not one
 
