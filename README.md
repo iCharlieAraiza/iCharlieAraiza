@@ -6,7 +6,9 @@ My name is Carlos and I'm a software developer and electrical engineer.
 
 Back end: C++, Java, Scala.
 
-Web dev: React, PHP, Node
+Web dev: React, PHP, Node.
+
+Server: RedHat, CentOS.
 
 - 💬 : Programmers will start the count from zero, not one
 
