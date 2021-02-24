@@ -11,6 +11,7 @@ Web dev: React, PHP, Node.
 Server: RedHat, CentOS.
 
 - 💬 : Programmers will start the count from zero, not one
+- 🌱 I’m currently learning ... Haskel, TypeScript
 
 <!--
 **iCharlieAraiza/iCharlieAraiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
