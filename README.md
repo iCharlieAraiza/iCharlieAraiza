@@ -8,7 +8,7 @@ Back end: C++, Java, Scala.
 
 Web dev: React, PHP, Node.
 
-Server: RedHat, CentOS.
+Server: RedHat, CentOS, AWS.
 
 - 💬 : Programmers will start the count from zero, not one
 - 🌱 I’m currently learning ... Haskell, TypeScript
