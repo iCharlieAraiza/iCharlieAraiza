@@ -12,7 +12,7 @@ Server: RedHat, CentOS,
 
 Cloud: AWS.
 
-- 💬 : Programmers will start the count from zero, not one
+- ⚡ 💬 : Programmers will start the count from zero, not one
 - 🌱 I’m currently learning ... Haskell, TypeScript
 
 <!--
