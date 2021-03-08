@@ -13,7 +13,7 @@ Server: RedHat, CentOS.
 Cloud: AWS.
 
 - ⚡ 💬 : Programmers will start the count from zero, not one
-- 🌱 📕 I’m currently learning ... Haskell, TypeScript
+- 🌱 📕 I’m currently learning ... Haskell, TypeScript, Azure.
 
 <!--
 **iCharlieAraiza/iCharlieAraiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
