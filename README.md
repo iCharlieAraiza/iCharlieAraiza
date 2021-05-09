@@ -6,7 +6,7 @@ Back end: C++, Java, Scala.
 
 Web dev: React, PHP, Node.
 
-Server: RedHat, CentOS.
+Server side: RedHat, CentOS.
 
 Cloud: AWS.
 
