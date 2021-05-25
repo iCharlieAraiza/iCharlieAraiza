@@ -4,13 +4,13 @@ My name is Carlos and I'm a software developer and electrical engineer. Full TDD
 
 ### My stack:
 
-Back end: C++, Java, Scala.
+**Back end:** C++, Java, Scala.
 
-Web dev: React, PHP, NodeJs.
+**Web dev:** React, PHP, NodeJs.
 
-Server side: RedHat, CentOS.
+**Server side: **RedHat, CentOS.
 
-Cloud: AWS.
+**Cloud:** AWS.
 
 - ⚡ 💬 : Programmers will start the count from zero, not one.
 - 🌱 📕 I’m currently learning ... Haskell, TypeScript, Azure.
