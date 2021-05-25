@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
 My name is Carlos and I'm a software developer and electrical engineer. Full TDD.
 
-My stack:
+### My stack:
 
 Back end: C++, Java, Scala.
 
