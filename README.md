@@ -4,7 +4,7 @@ My name is Carlos and I'm a software developer and electrical engineer.
 
 Back end: C++, Java, Scala.
 
-Web dev: React, PHP, Node.
+Web dev: React, PHP, NodeJs.
 
 Server side: RedHat, CentOS.
 
