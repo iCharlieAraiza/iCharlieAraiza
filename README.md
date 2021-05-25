@@ -8,7 +8,7 @@ My name is Carlos and I'm a software developer and electrical engineer. Full TDD
 
 **Web dev:** React, PHP, NodeJs.
 
-**Server side: **RedHat, CentOS.
+**Server side:** RedHat, CentOS.
 
 **Cloud:** AWS.
 
