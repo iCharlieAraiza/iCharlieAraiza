@@ -4,7 +4,7 @@ My name is Carlos and I'm a software developer and electrical engineer. Full TDD
 
 ### My stack:
 
-**Back end:** C++, Java (Spring JEE), Scala.
+**Back end:** C++, Java (Spring, JEE), Scala.
 
 **Web dev:** React, PHP, NodeJs.
 
