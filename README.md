@@ -4,7 +4,7 @@ My name is Carlos and I'm a software developer and electrical engineer. Full TDD
 
 ### My stack:
 
-**Back end:** C++, Java, Scala.
+**Back end:** C++, Java (Spring JEE), Scala.
 
 **Web dev:** React, PHP, NodeJs.
 
@@ -12,8 +12,10 @@ My name is Carlos and I'm a software developer and electrical engineer. Full TDD
 
 **Cloud:** AWS.
 
+- 🌱 📕 I’m currently learning ... TypeScript, Azure and Next.js.
+
 - ⚡ 💬 : Programmers will start the count from zero, not one.
-- 🌱 📕 I’m currently learning ... Haskell, TypeScript, Azure and Next.js.
+- 🔭 I’m currently working on an open source project tracker called "Softtracker"
 
 <!--
 **iCharlieAraiza/iCharlieAraiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
