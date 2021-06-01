@@ -12,6 +12,8 @@ My name is Carlos and I'm a software developer and electrical engineer. Full TDD
 
 **Cloud:** AWS.
 
+**Drink:** Coffee.
+
 - 🌱 📕 I’m currently learning ... TypeScript, Azure and Next.js.
 
 - ⚡ 💬 : Programmers will start the count from zero, not one.
