@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Carlos and I'm a software developer and electrical engineer. Full TDD.
+My name is Carlos and I'm a software developer and electrical engineer.
 
 ### My stack:
 
