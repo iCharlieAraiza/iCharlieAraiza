@@ -14,7 +14,7 @@ My name is Carlos and I'm a software developer and electrical engineer.
 
 **Drinks:** Coffee.
 
-- 🌱 📕 I’m currently learning ... TypeScript, Azure and Next.js.
+- 🌱 📕 I’m currently learning ... TypeScript, Azure, Next.js and CP.
 
 - ⚡ 💬 : Programmers will start the count from zero, not one.
 - 🔭 I’m currently working on an open source project tracker called "Softtracker"
