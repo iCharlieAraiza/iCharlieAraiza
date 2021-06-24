@@ -15,7 +15,7 @@ My name is Carlos and I'm a software developer and electrical engineer.
 **Drinks:** Coffee.
 
 ### Open Sourse Projects
-**Software Tracker** (Spring Boot, React)
+**Software Project Tracker** (Spring Boot, React)
 
 - 🌱 📕 I’m currently learning ... TypeScript, Azure, Next.js and CP.
 
