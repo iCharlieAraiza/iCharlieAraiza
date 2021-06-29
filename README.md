@@ -19,6 +19,8 @@ My name is Carlos and I'm a software developer and electrical engineer.
 
 **DragComponents** (JavaScript, ReactJs).
 
+**Coding Algorthms** (Java/JavaScript)
+
 - 🌱 📕 I’m currently learning ... TypeScript, Azure, Next.js and CP.
 
 - ⚡ 💬 : Programmers will start the count from zero, not one.
