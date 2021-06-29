@@ -21,7 +21,7 @@ My name is Carlos and I'm a software developer and electrical engineer.
 
 **Coding Algorthms** (Java/JavaScript)
 
-- 🌱 📕 I’m currently learning ... TypeScript, Azure, Next.js and CP.
+- 🌱 📕 I’m currently learning ... TypeScript, Next.js, Gatsby and CP.
 
 - ⚡ 💬 : Programmers will start the count from zero, not one.
 - 🔭 I’m currently working on an open source project tracker called "Softtracker"
