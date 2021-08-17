@@ -15,7 +15,7 @@ My name is Carlos and I'm a software developer and electrical engineer.
 **Drinks:** Coffee.
 
 ### Open Sourse Projects
-**Project Planning Software** (Spring Boot, React).
+**Project Planning Software** (Spring Boot, React, PostgreSQLñ).
 
 **DragComponents** (JavaScript, ReactJs).
 
