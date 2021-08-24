@@ -4,7 +4,7 @@ My name is Carlos and I'm a software developer and electrical engineer.
 
 ### My stack:
 
-**Back end:** Java (Spring Framework, JEE), Scala.
+**Back end:** Java (Spring Framework, JEE), Scala (Play)
 
 **Web dev:** React, PHP, NodeJs.
 
@@ -13,4 +13,6 @@ My name is Carlos and I'm a software developer and electrical engineer.
 **Cloud:** AWS.
 
 **Drinks:** Coffee.
+
+
 
