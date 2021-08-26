@@ -6,13 +6,13 @@ My name is Carlos and I'm a software developer and electrical engineer.
 
 **Back end:** Java (Spring Framework, JEE), Scala (Play)
 
-**Web dev:** React, PHP, NodeJs.
+**Web dev:** React, PHP, NodeJs
 
-**Server side:** RedHat, CentOS.
+**Server side:** RedHat, CentOS
 
-**Cloud:** AWS.
+**Cloud:** AWS
 
-**Drinks:** Coffee.
+**Drinks:** Coffee
 
 
 
