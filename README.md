@@ -10,7 +10,7 @@ Here you will find all kind of projects.
 
 **Web dev:** React, PHP, NodeJs
 
-**Server side:** RedHat, CentOS
+**Inf/Server side:** RedHat, CentOS
 
 **Cloud:** AWS
 
