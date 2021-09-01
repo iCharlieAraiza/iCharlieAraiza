@@ -6,7 +6,7 @@ Here you will find all kind of projects.
 
 ### My stack:
 
-**Back end:** Java (Spring Framework, JEE), Scala (Play)
+**Back end:** Java (Spring Framework, JEE), Scala (Play), C++
 
 **Web dev:** React, PHP, NodeJs
 
