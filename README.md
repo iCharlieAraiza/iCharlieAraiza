@@ -2,7 +2,7 @@
 
 My name is Carlos and I'm a software developer and electrical engineer.
 
-Here you will find all kind of projects.
+Here you will find all kind of projects. 
 
 ### My stack:
 
@@ -17,4 +17,5 @@ Here you will find all kind of projects.
 **Drinks:** Coffee
 
 
+**Learning:** Typescript
 
