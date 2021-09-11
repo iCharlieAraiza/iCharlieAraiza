@@ -17,5 +17,5 @@ Here you will find all kind of projects.
 **Drinks:** Coffee
 
 
-**Learning:** Typescript
+**Learning:** TypeScript
 
