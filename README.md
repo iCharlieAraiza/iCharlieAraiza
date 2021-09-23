@@ -18,7 +18,7 @@ Here you will find all kind of projects.
 
 **Learning:** TypeScript, Rust
 
-**Drinks:** Coffee
+**Drinks:** Coffee and beer
 
 ***
 
