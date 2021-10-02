@@ -24,7 +24,7 @@ Here you will find all kind of projects.
 
 ### Projects
 
-Softtracker
+SoftTracker
 
 
 
