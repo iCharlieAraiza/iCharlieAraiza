@@ -24,7 +24,8 @@ Here you will find all kind of projects.
 
 ### Projects
 
-SoftTracker
+- SoftTracker
+- ArteFeed.com
 
 
 
