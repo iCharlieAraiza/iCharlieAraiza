@@ -26,7 +26,7 @@ Here you will find all kind of projects.
 
 - 👨‍💻 SoftTracker
 - 🖌 ArteFeed.com
-- ViajeTip.com
+- ✈️ ViajeTip.com
 
 
 
