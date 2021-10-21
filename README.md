@@ -2,7 +2,7 @@
 
 My name is Carlos and I'm a software developer and electrical engineer.
 
-Here you will find all kind of projects and stuffs.
+Here you will find all kind of projects and stuff.
 
 *** 
 
