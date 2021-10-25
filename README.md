@@ -23,7 +23,7 @@ Here you will find all kind of projects and stuff.
 ***
 
 ### Projects
-- TaskTabs  
+- ☑️ TaskTabs  
 - 💻 ProTask
 - 👨‍💻  SoftTracker
 - 🖌  ArteFeed.com
