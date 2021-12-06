@@ -10,7 +10,7 @@ Here you will find all kind of projects and stuff.
 
 **Back end:** Java (Spring Framework, JEE), Scala.
 
-**Web dev:** React (Nextjs), PHP, NodeJs
+**Web dev:** React, PHP, NodeJs
 
 **Inf/Server side:** RedHat, CentOS
 
