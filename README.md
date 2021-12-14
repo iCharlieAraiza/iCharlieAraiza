@@ -28,7 +28,5 @@ Here you will find all kind of projects and stuff.
 - 👨‍💻  SoftTracker
 - 🖌  ArteFeed.com
 - ✈️  ViajeTip.com
-- Comming soon...
-
 
 
