@@ -24,7 +24,7 @@ Here you will find all kind of projects and stuff.
 
 ### Projects
 - ☑️ SmartTask Tabs  
-- </> Código Hábil
+- </> **Código Hábil** - A social project that aims to help people to learn coding.
 - 💻 ProTask
 - 👨‍💻  SoftTracker
 - 🖌  ArteFeed.com
