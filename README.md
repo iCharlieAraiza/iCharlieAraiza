@@ -16,7 +16,7 @@ Here you will find all kind of projects and stuff.
 
 **Cloud:** AWS
 
-**Learning:** TypeScript, Rust, Go
+**Learning:** Rust, Go
 
 **Drinks:** Coffee
 
